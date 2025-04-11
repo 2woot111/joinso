@@ -37,7 +37,7 @@ function App() {
               Your AI friend is being made.
             </a>
           </h1>
-          <p className="text-gray-600 text-xl mb-12">Join the queue of users waiting to see the full power of an AI supperconnector.</p>
+          <p className="text-gray-600 text-xl mb-12">Join the queue of users waiting to see the full power of an AI superconnector.</p>
           
           <button
             onClick={handleGetStarted}
